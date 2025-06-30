@@ -33,7 +33,7 @@ End-to-end Development – Ensuring software quality at every stage. ⚡ Perform
 ### 📧 Contact
 
 - **Email:** raghukiran4590@gmail.com
-- **Location:** Tampa, FL, USA
+- **Location:** USA
 
 ---
 
