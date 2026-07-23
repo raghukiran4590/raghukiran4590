@@ -1,8 +1,8 @@
-# 👋 Hi, this is Raghu Kiran
+# 👋 Hi!
 
 🚀 About Me:
 
-I am a Senior Software Engineer with a strong background in building scalable applications and architecting automation frameworks. My expertise spans Java, Spring Boot, Hibernate, RESTful APIs, Microservices, and Cloud Computing, allowing me to develop high-performance and reliable software solutions.
+I am Raghu Kiran, a Senior Software Engineer with a strong background in building scalable applications and architecting automation frameworks. My expertise spans Java, Spring Boot, Hibernate, RESTful APIs, Microservices, and Cloud Computing, allowing me to develop high-performance and reliable software solutions.
 
 In addition to software development, I have extensive experience in Jenkins, Github Actions, Docker and CI/CD pipelines. My hands-on approach enables me to build applications and ensure their quality through automated and performance testing.
 
