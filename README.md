@@ -32,7 +32,7 @@ End-to-end Development – Ensuring software quality at every stage. ⚡ Perform
 
 ### 📧 Contact
 
-- **Email:** raghukiran9423@gmail.com
+- **Email:** raghukiran4590@gmail.com
 - **Location:** USA
 
 ---
