@@ -9,8 +9,11 @@ In addition to software development, I have extensive experience in Jenkins, Git
 💼 Core Competencies:
 
 Programming Languages: Java, Python
+
 Frameworks: Springboot, FastAPI
+
 Architecture-styles: Monolithic, Microservices, Event-Driven
+
 Front-End: ReactJS
 Build Tools: Maven, Gradle
 Version Control: Git, GitHub, Gitlab
